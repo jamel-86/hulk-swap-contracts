@@ -12,14 +12,14 @@ There will be levels based on how many tokens you have staked:
 <br>
 The amount of Hulk tokens to hold for the different levelsa re to be announced.
 <br>
-
+<br>
 ## Project Owner
-
+<br>
 <br>
 As a project owner of an IDO you are able to use our vesting option for the contributors, we have following options:
 <br>
-1. x % claimable before launch, rest vested of x months<br>
-2. x % claimable before launch, rest vested of x months and x times<br>
+- 1. x % claimable before launch, rest vested of x months
+- 2. x % claimable before launch, rest vested of x months and x times
 
 This gives the IDO owner's a good chance to avoid contributors to sell all their tokens directly after launch, and sustain a higher price floor.<br>
 
