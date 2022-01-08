@@ -1,6 +1,6 @@
 # HulkSwap 
 
-This is the first DEX on BSC that will let holders holding Hulk tokens and staking them in the pools or farms to be qualified for the WhiteListed IDOs that will be dropped on our platform.
+This is the first DEX on BSC that will let holders holding Hulk tokens and staking them in the pools or farms to be qualified for the WhiteListed IDOs that will be dropped on our platform.<br>
 There will be levels based on how many tokens you have staked:
 
 Level 1: you can invest 10% of max contribution<br>
@@ -8,21 +8,22 @@ Level 2: you can invest 25% of max contribution<br>
 Level 3: you can invest 50% of max contribution<br>
 Level 4: you can invest 75% of max contribution<br>
 Level 5: you can invest 100%!<br>
-
+<br>
+<br>
 The amount of Hulk tokens to hold for the different levelsa re to be announced.
-
+<br>
 ## Project Owner
-
+<br>
 As a project owner of an IDO you are able to use our vesting option for the contributors, we have following options:
+<br>
+1. x % claimable before launch, rest vested of x months<br>
+2. x % claimable before launch, rest vested of x months and x times<br>
 
-1. x % claimable before launch, rest vested of x months
-2. x % claimable before launch, rest vested of x months and x times
+This gives the IDO owner's a good chance to avoid contributors to sell all their tokens directly after launch, and sustain a higher price floor.<br>
 
-This gives the IDO owner's a good chance to avoid contributors to sell all their tokens directly after launch, and sustain a higher price floor.
+https://hulk-swap.com. Feel free to read the code. More details coming soon.<br>
 
-https://hulk-swap.com. Feel free to read the code. More details coming soon.
-
-## Deployed Contracts
+## Deployed Contracts<br>
 
 - HulkFactory: [0xa5A1Ad5e60Aa0976D5c87c5D785625ED4334b650](https://testnet.bscscan.com/address/0xa5A1Ad5e60Aa0976D5c87c5D785625ED4334b650)
 - HulkToken: [0x0eeBF785684444C019aD04483DB160F956F6f73F](https://testnet.bscscan.com/address/0x0eeBF785684444C019aD04483DB160F956F6f73F)
