@@ -3,11 +3,11 @@
 This is the first DEX on BSC that will let holders holding Hulk tokens and staking them in the pools or farms to be qualified for the WhiteListed IDOs that will be dropped on our platform.
 There will be levels based on how many tokens you have staked:
 
-Level 1: you can invest 10% of max contribution
-Level 2: you can invest 25% of max contribution
-Level 3: you can invest 50% of max contribution
-Level 4: you can invest 75% of max contribution
-Level 5: you can invest 100%!
+Level 1: you can invest 10% of max contribution<br>
+Level 2: you can invest 25% of max contribution<br>
+Level 3: you can invest 50% of max contribution<br>
+Level 4: you can invest 75% of max contribution<br>
+Level 5: you can invest 100%!<br>
 
 The amount of Hulk tokens to hold for the different levelsa re to be announced.
 
