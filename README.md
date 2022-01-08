@@ -9,8 +9,7 @@ There will be levels based on how many tokens you have staked:
 - Level 4: you can invest 75% of max contribution
 - Level 5: you can invest 100%!
 <br>
-<br>
-The amount of Hulk tokens to hold for the different levelsa re to be announced.
+The amount of Hulk tokens to hold for the different levels are to be announced.
 <br>
 
 ## Project Owner
