@@ -12,9 +12,9 @@ There will be levels based on how many tokens you have staked:
 <br>
 The amount of Hulk tokens to hold for the different levelsa re to be announced.
 <br>
-<br>
+
 ## Project Owner
-<br>
+
 <br>
 As a project owner of an IDO you are able to use our vesting option for the contributors, we have following options:
 <br>
