@@ -12,7 +12,9 @@ There will be levels based on how many tokens you have staked:
 <br>
 The amount of Hulk tokens to hold for the different levelsa re to be announced.
 <br>
+
 ## Project Owner
+
 <br>
 As a project owner of an IDO you are able to use our vesting option for the contributors, we have following options:
 <br>
@@ -23,7 +25,7 @@ This gives the IDO owner's a good chance to avoid contributors to sell all their
 
 https://hulk-swap.com. Feel free to read the code. More details coming soon.<br>
 
-## Deployed Contracts<br>
+## Deployed Contracts
 
 - HulkFactory: [0xa5A1Ad5e60Aa0976D5c87c5D785625ED4334b650](https://testnet.bscscan.com/address/0xa5A1Ad5e60Aa0976D5c87c5D785625ED4334b650)
 - HulkToken: [0x0eeBF785684444C019aD04483DB160F956F6f73F](https://testnet.bscscan.com/address/0x0eeBF785684444C019aD04483DB160F956F6f73F)
